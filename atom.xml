@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://geekiman.github.io/blog/</id>
+    <title>Geekiman</title>
+    <updated>2021-10-02T08:34:34.769Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://geekiman.github.io/blog/"/>
+    <link rel="self" href="https://geekiman.github.io/blog/atom.xml"/>
+    <subtitle>刻板传世</subtitle>
+    <logo>https://geekiman.github.io/blog/images/avatar.png</logo>
+    <icon>https://geekiman.github.io/blog/favicon.ico</icon>
+    <rights>All rights reserved 2021, Geekiman</rights>
+    <entry>
+        <title type="html"><![CDATA[Hellow，World!]]></title>
+        <id>https://geekiman.github.io/blog/post/hellowworld/</id>
+        <link href="https://geekiman.github.io/blog/post/hellowworld/">
+        </link>
+        <updated>2021-10-02T08:20:29.000Z</updated>
+    </entry>
+</feed>
